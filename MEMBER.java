@@ -59,6 +59,11 @@ public class MEMBER
         return bmi;
     }
 
+    public String getEmail()
+    {
+        return (fName.substring(0,1)+sName+"@scotfit.co.uk");
+    }
+    
     public void displayDetails()
     {
         // output basic details
