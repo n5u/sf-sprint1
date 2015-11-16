@@ -1,4 +1,4 @@
-// member.
+// MEMBER
 // author ( 0 5 1 |) 3 5 |< 
 
 import javax.swing.JOptionPane;    
