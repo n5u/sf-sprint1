@@ -25,7 +25,7 @@ public class MEMBER
         bmi = 0.0f;
     }
 
-    // file handling store details from file
+    // file handling: store details from file
     public void readMemberDetails(String dataItems)
     {
         // unpack string of row data into fields
